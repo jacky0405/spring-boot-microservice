@@ -21,4 +21,4 @@ target/
 
 ### Host Data ###
 mongo-data
-mysql
+mysql-data
